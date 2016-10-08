@@ -1,1 +1,1 @@
-Git change
+Git change under the GPL
