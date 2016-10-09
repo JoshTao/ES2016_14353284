@@ -45,11 +45,13 @@
 * $	sudo make install
 
 编译完文件目录如下($ cd .. $ ls：
-
+![pic2.jpg](https://github.com/JoshTao/Picture/blob/master/lab1/pic2.jpg)
 
 
 记录当前的工作路径(会输出当前所在路径，记下来，待会有用)
 * $ pwd
+
+![pic3.jpg](https://github.com/JoshTao/Picture/blob/master/lab1/pic3.jpg)
 
 进入刚刚dol的文件夹
 * $	cd ../dol
@@ -76,5 +78,6 @@
 然后运行第一个例子
 * $	ant -f runexample.xml -Dnumber=1
 
+![pic1.jpg](https://github.com/JoshTao/Picture/blob/master/lab1/pic1.jpg)
 
 
