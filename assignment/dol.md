@@ -3,10 +3,10 @@
 >**实验截图**
 
 * 实验一：
-![pic1.jpg]（https://github.com/JoshTao/Picture/blob/master/lab3/pic1.png）
+![pic1.jpg](https://github.com/JoshTao/Picture/blob/master/lab3/pic1.png)
 
 * 实验二：
-![pic3.jpg]（https://github.com/JoshTao/Picture/blob/master/lab3/pic3.png）
+![pic3.jpg](https://github.com/JoshTao/Picture/blob/master/lab3/pic3.png)
 
 >**修改内容**
 
